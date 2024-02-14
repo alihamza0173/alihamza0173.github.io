@@ -1,11 +1,11 @@
 {
     "name": "portfolio_flutter",
-    "short_name": "portfolio_flutter",
+    "short_name": "My Portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Ali Hamza Portfolio",
+    "description": "Ali Hamza Flutter Developer Portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
