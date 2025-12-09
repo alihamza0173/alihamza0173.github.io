@@ -44,7 +44,7 @@ const RESOURCES = {"flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "assets/assets/weather_icons/showers-night.png": "9f65905a2bd522bc2890cf55211400b8",
 "assets/assets/weather_icons/rain.png": "08deaab523a4765d80873576fe350505",
 "assets/assets/weather_icons/thunder-showers-day.png": "d82793dc7820bd3b0f1d5cb2af29d48b",
-"assets/fonts/MaterialIcons-Regular.otf": "04f2fce14331351ebe267ad806306201",
+"assets/fonts/MaterialIcons-Regular.otf": "6fa5a65998b1f38ec3395d38d93e2829",
 "assets/NOTICES": "17138541ed3c7decb9e9b9fb4be6a083",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "f786ce3662daf86979d15947f7ec41dd",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -62,9 +62,9 @@ const RESOURCES = {"flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "canvaskit/canvaskit.js.symbols": "a3c9f77715b642d0437d9c275caba91e",
 "canvaskit/skwasm.js.symbols": "3a4aadf4e8141f284bd524976b1d6bdc",
 "favicon.png": "4999d62f008bb1d342d8ab1b1d3cc21a",
-"flutter_bootstrap.js": "5a632bbe21d5401ee034684fc0612fff",
+"flutter_bootstrap.js": "217b7b8e6b257b311d2cdaa5cd34f657",
 "version.json": "7804eb643eb875d188221832d4ff86c5",
-"main.dart.js": "a68e835278018ba0bd298cb55b8a7007"};
+"main.dart.js": "8231b0d1c3d16beb65f439b93fa6ce30"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
